@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Validar la funcionalidad add new del modulo post" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-11-23T00:21:10" hostname="P002312" time="127.75">
+  <properties/>
+  <testcase name="Ingresar al cms y validar la funcionalidad add new del modulo post" classname="Validar la funcionalidad add new del modulo post" time="44.497"/>
+  <testcase name="Ingresar al cms y validar la funcionalidad add new del modulo post" classname="Validar la funcionalidad add new del modulo post" time="83.25"/>
+  <system-out><![CDATA[Se digito el usuario
+Se digito la clave
+Inicio de sesiÃ³n exitoso
+Ingreso al modulo Post
+Click en el boton del modulo Post
+Ventana modal activa.
+Cerrando ventana modal.
+Validacion de la plantilla:
+
+Campo para el titulo encontrado
+CerrÃ³ el navegador.
+Se digito el usuario
+Se digito la clave
+Inicio de sesiÃ³n exitoso
+Ingreso al modulo Post
+Click en el boton del modulo Post
+Ventana modal activa.
+Cerrando ventana modal.
+Validacion de la plantilla:
+
+Campo para el titulo encontrado
+Se modifico el texto del titulo correctamente
+Click en el boton de nuevo bloque
+Click en el boton de agregar nuevo bloque tipo parrafo
+Campo para el parrafo encontrado
+Guardando borrador
+Click en el boton de Preview
+Titulo en ventana de vista previa correctamente validado
+Parrafo en ventana de vista previa correctamente validado
+CerrÃ³ el navegador.
+]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38) on port 27696
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+[1606090877.303][WARNING]: Timed out connecting to Chrome, retrying...
+nov 22, 2020 7:21:19 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: OSS
+[1606090881.442][WARNING]: Timed out connecting to Chrome, retrying...
+Starting ChromeDriver 72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38) on port 15602
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+[1606090918.203][WARNING]: Timed out connecting to Chrome, retrying...
+nov 22, 2020 7:22:00 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: OSS
+[1606090922.309][WARNING]: Timed out connecting to Chrome, retrying...
+[1606090993.749][WARNING]: Timed out connecting to Chrome, retrying...
+]]></system-err>
+</testsuite>
